@@ -3,7 +3,7 @@
 A simple **C++ console game** implementation of the classic **Rock–Paper–Scissors** game.  
 This project allows the player to compete against the computer over multiple rounds.  
 
-This project is part of the AbouHadhood Platform training track with Dr. Mohamed Abou Hadhoud
+This project is part of the  [AbouHadhood Platform](https://programmingadvices.com/) training track with Dr. Mohamed Abou Hadhoud
 ---
 
 ## 📌 Features
